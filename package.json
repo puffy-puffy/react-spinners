@@ -1,0 +1,20 @@
+{
+  "name": "react-spinners",
+  "version": "1.0.0",
+  "description": "react css spinners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puffy-puffy/react-spinners.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puffy-puffy/react-spinners/issues"
+  },
+  "homepage": "https://github.com/puffy-puffy/react-spinners#readme"
+}
